@@ -17,6 +17,7 @@
     width: 7vw;
     height: 7vw;
     border: 1px solid black;
+    transition: 0.2s;
 }
 
 .wall{
@@ -25,6 +26,7 @@
 
 .player{
     background-color: yellow;
+    transition: 0.2s;
 }
 
 .end{
