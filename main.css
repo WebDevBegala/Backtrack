@@ -10,7 +10,7 @@
 .root{
     margin: 10vw;
     display: grid;
-    grid-template-columns: auto auto auto auto;
+    grid-template-columns: auto auto auto auto auto;
     width: fit-content;
 }
 .field{
