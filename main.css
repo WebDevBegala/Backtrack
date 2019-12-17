@@ -1,0 +1,32 @@
+.btn{
+    background-color:brown;
+    width: fit-content;
+    padding: 2vh 2vw 2vh 2vw;
+    border-radius: 20px;
+    color: white;
+    user-select: none;
+    cursor: pointer;
+}
+.root{
+    margin: 10vw;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    width: fit-content;
+}
+.field{
+    width: 7vw;
+    height: 7vw;
+    border: 1px solid black;
+}
+
+.wall{
+    background-color: black;
+}
+
+.player{
+    background-color: yellow;
+}
+
+.end{
+    background-color: green;
+}
